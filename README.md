@@ -19,7 +19,7 @@ For **educational and authorized pentesting purposes only.**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yurahshell/CVE-2025-55182-Interactive-mode
+git clone https://github.com/yurahshell/CVE-2025-55182.git
 cd CVE-2025-55182-Interactive-mode
 pip install -r requirements.txt
 ```
